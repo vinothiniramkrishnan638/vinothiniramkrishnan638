@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Vinothini R
 
-<!--
-**vinothiniramkrishnan638/vinothiniramkrishnan638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** | React JS · Python FastAPI · MySQL
 
-Here are some ideas to get you started:
+I build multi-module web applications from written specifications, from the React frontend to the FastAPI backend and MySQL database.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+**[Village Fresh – Farm Products Delivery Platform](https://github.com/vinothiniramkrishnan638/Farm-products-delivery-platform)**
+Live: https://farm-products-delivery-platform.vercel.app
+Three roles (Customer, Admin, Delivery Partner) with separate JWT authentication, order tracking and admin tools. Deployed on Vercel, Render and Aiven.
+
+## Tech Stack
+
+- **Frontend:** React JS (Vite), React Router, Redux Toolkit, Tailwind CSS, JavaScript (ES6+)
+- **Backend:** Python, FastAPI, REST APIs, JWT, role-based access control, Pydantic v2
+- **Database:** MySQL, SQLAlchemy 2.0
+- **Tools:** Git, Postman, VS Code, Vercel, Render, Aiven
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/vinothini-ramakrishnan-111b8b333/
+- Email: vinothiniramkrishnan638@gmail.com
